@@ -1,6 +1,7 @@
 '''
 #2021. 03. 09
 #Creater : Gunhee Choi
+#Link : https://wikidocs.net/book/1
 #Title : 숫자형
 '''
 
