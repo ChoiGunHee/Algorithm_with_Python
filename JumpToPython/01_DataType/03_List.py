@@ -1,3 +1,10 @@
+'''
+#2021. 03. 14
+#Creater : Gunhee Choi
+#Link : https://wikidocs.net/book/1
+#Title : List 자료형
+'''
+
 odd = [1, 3, 5, 7, 9]
 
 #리스트의 인덱싱
