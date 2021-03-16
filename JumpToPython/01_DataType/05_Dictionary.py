@@ -2,7 +2,7 @@
 #2021. 03. 15
 #Creater : Gunhee Choi
 #Link : https://wikidocs.net/book/1
-#Title : Tuple 자료형
+#Title : Dictionary 자료형
 '''
 
 #추가
