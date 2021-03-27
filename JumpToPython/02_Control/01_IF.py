@@ -2,7 +2,7 @@
 #2021. 03. 23
 #Creater : Gunhee Choi
 #Link : https://wikidocs.net/book/1
-#Title : 숫자형
+#Title : If문
 '''
 
 #if문
